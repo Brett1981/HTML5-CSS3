@@ -1,0 +1,149 @@
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v13/EsvMC5un3kjyUhB9ZEPPwg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+body {
+    font-family: Lato, sans-serif;
+}
+
+header {
+    background-color: #293F50;
+    height: 400px;
+    margin-bottom: 50px;
+}
+
+li.header {
+    display: inline-block;
+    padding: 15px;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #BDC6BB;
+}
+
+a:hover {
+    color: #E9EBED;
+}
+
+p.date {
+    color: #BDC6BB;
+    font-size: 14px;
+    text-align: end;
+    margin-right: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: #E9EBED;
+    font-weight: 100;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+h3 {
+    color: #BDC6BB;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 100;
+    font-size: 24px;
+}
+
+p.subHead {
+    color: #E9EBED;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+button {
+    background: none;
+    color: #E9EBED;
+    margin-top: 40px;
+    margin-left: 46.5%;
+    border: 1px solid #E9EBED;
+    border-radius: 5px;
+    padding: 15px 25px;
+    font-size: 12px;
+}
+
+button:hover {
+    cursor: pointer;
+    background: #E9EBED;
+    border-color: #E9EBED;
+    color: #293F50;
+}
+main {
+    margin-left: 350px;
+    margin-bottom: 50px;
+
+}
+
+img {
+    width: 200px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+
+}
+
+div {
+    width: 200px;
+    display: inline-block;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+h5 {
+    margin-bottom: 25px;
+    color: #BDC6BB;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+h4 {
+    margin-bottom: 15px;
+    color: #BDC6BB;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+p.article {
+    color: #BDC6BB;
+    font-size: 12px;
+}
+
+footer {
+    height: 100px;
+    background-color: #293F50;
+}
+
+ul.footer {
+    text-align: end;
+    margin-right: 25px;
+}
+
+li.footer {
+    display: inline-block;
+    padding: 10px;
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+p.footer {
+    color: #BDC6BB;
+    font-size: 20px;
+    margin-left: 40px;
+    float: left;
+    margin-top: 40px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}

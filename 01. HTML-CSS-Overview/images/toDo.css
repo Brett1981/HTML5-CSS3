@@ -1,0 +1,15 @@
+body {
+    padding:30px;
+}
+
+.container {
+    background-color: #f7f381;
+    width: 300px;
+    height:280px;
+    padding: 20px;
+    box-shadow: 2px 1px 5px 5px #ccc
+}
+
+p {
+   text-align: center;
+}
