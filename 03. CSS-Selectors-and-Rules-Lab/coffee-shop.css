@@ -1,0 +1,76 @@
+html {
+    font-size: 18px;
+}
+
+@font-face {
+    font-family: coffee;
+    src: url(font/getcoffee.ttf);
+}
+
+body {
+    color: #ffffff;
+    background-image: url("image/cafe-home.jpg");
+    background-size: cover;
+    margin: 0 auto;
+    font-family: "Times New Roman", serif;
+}
+
+aside {
+    float: left;
+    width: 200px;
+    font-size: 0.9rem;
+    margin-right: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: coffee, serif;
+    color: #737373;
+    letter-spacing: 10px;
+    font-size: 2.5rem;
+    width: 70%;
+}
+
+section {
+    text-align: justify;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 1.3rem;
+    text-align: center;
+}
+p {
+    font-size: 1rem;
+    margin-left: 5px;
+    width: 600px
+}
+
+
+aside ol li a {
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+}
+
+article {
+    width: 53%;
+    color: #CCCCCC;
+    text-shadow: 1px 1px 1px black;
+}
+
+article:last-of-type {
+    background: rgba(245, 246, 251, 0.1);
+    padding: 10px;
+}
+
+article:last-of-type > p {
+    color: #5bc0de;
+}
+
+article:last-of-type > p:first-line {
+    color: greenyellow;
+}
+
+article:last-of-type > p
