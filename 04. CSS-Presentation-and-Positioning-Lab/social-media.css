@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    color: #BAB195;
+    background: rgb(41, 41, 41);
+    font-size: 18px;
+    font-family: Lato;
+}
+
+footer {
+    width: 900px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+article {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+h3 {
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
+    text-transform: capitalize;
+
+}
+
+ul {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #BAB195;
+}
+
+a:hover {
+    color: white;
+}
+
+footer > article > div div {
+    width: 54px;
+    height: 54px;
+    background: url("images/Social_circle.png");
+    display: inline-block;
+}
+
+.twitter {
+    background-position: 474px 122px;
+}
+
+.linkedin {
+    background-position: 717px 122px;
+}
+
+.youtube {
+    background-position: 535px 122px;
+}
+
+.facebook, .twitter, .youtube, .linkedin {
+    cursor: pointer;
+}
+
+.facebook:hover {
+    background-position: 0 54px;
+}
+
+.linkedin:hover {
+    background-position: 717px 54px;
+}
+
+.youtube:hover {
+    background-position: 535px 54px;
+}
+
+.twitter:hover {
+    background-position: 474px 54px;
+}
+
