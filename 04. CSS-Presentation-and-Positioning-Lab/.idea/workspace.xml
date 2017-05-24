@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c68b180a-2712-4357-9b6d-3bde8706109b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/04. CSS-Presentation-and-Positioning-Lab.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01. Briard History.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2. Social Media.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/briard-history.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/social-media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3. Drop Down Menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4. Floating Elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5. Clear Floating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clear-floating.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drop-down-menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/floating-elements.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,41 +26,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01. Briard History.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01. Briard History.html">
+      <file leaf-file-name="4. Floating Elements.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Floating Elements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="107">
+              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="briard-history.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/briard-history.css">
+      <file leaf-file-name="floating-elements.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/floating-elements.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1113">
-              <caret line="53" column="18" lean-forward="false" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+            <state relative-caret-position="483">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2. Social Media.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Social Media.html">
+      <file leaf-file-name="5. Clear Floating.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Clear Floating.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="170">
+              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="social-media.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/social-media.css">
+      <file leaf-file-name="clear-floating.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clear-floating.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+            <state relative-caret-position="840">
+              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -89,6 +86,12 @@
         <option value="$PROJECT_DIR$/briard-history.css" />
         <option value="$PROJECT_DIR$/2. Social Media.html" />
         <option value="$PROJECT_DIR$/social-media.css" />
+        <option value="$PROJECT_DIR$/3. Drop Down Menu.html" />
+        <option value="$PROJECT_DIR$/drop-down-menu.css" />
+        <option value="$PROJECT_DIR$/4. Floating Elements.html" />
+        <option value="$PROJECT_DIR$/floating-elements.css" />
+        <option value="$PROJECT_DIR$/5. Clear Floating.html" />
+        <option value="$PROJECT_DIR$/clear-floating.css" />
       </list>
     </option>
   </component>
@@ -217,12 +220,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495560478229</updated>
-      <workItem from="1495560480365" duration="7512000" />
+      <workItem from="1495560480365" duration="16607000" />
     </task>
+    <task id="LOCAL-00001" summary="solutions">
+      <created>1495568847064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495568847064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7512000" />
+    <option name="totallyTimeSpent" value="16607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -252,6 +263,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -265,26 +280,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/briard-history.css">
+    <entry file="file://$PROJECT_DIR$/2. Social Media.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="53" column="18" lean-forward="false" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        <state relative-caret-position="714">
+          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. Social Media.html">
+    <entry file="file://$PROJECT_DIR$/3. Drop Down Menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        <state relative-caret-position="336">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drop-down-menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/social-media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/briard-history.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/floating-elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Floating Elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Clear Floating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clear-floating.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
           <folding />
         </state>
       </provider>

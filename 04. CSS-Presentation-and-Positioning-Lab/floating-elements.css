@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+}
+
+main { width: 400px;
+    text-align: justify;
+}
+
+.float-left, .float-right, .no-float {
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    padding: 10px;
+    background: CornflowerBlue;
+    border-radius: 5px;
+    text-shadow: 0px 0px 5px white;
+}
+
+.float-left {
+    float: left;
+    margin-right: 10px;
+}
+.float-right {
+    float: right;
+    margin-left: 10px;
+}
+.no-float {
+    margin: 0 auto;
+}
+
