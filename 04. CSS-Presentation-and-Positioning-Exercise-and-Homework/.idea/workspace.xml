@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a951f9e-52a4-4b7a-b411-ba5086fb4ce1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/04. CSS-Presentation-and-Positioning-Exercise-and-Homework.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1. Book Review.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2. Zora Properties.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book-review.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zora-proprties.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../03. CSS-Selectors-and-Rules-Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../03. CSS-Selectors-and-Rules-Homework/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3. Option Panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/option-panels.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +21,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="1. Book Review.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1. Book Review.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book-review.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="book-review.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/book-review.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3633">
-              <caret line="173" column="23" lean-forward="true" selection-start-line="173" selection-start-column="3" selection-end-line="173" selection-end-column="23" />
+            <state relative-caret-position="-105">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,8 +69,28 @@
       <file leaf-file-name="zora-proprties.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zora-proprties.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="1869">
+              <caret line="131" column="30" lean-forward="false" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3. Option Panels.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. Option Panels.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="option-panels.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/option-panels.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1094">
+              <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -106,6 +118,8 @@
         <option value="$PROJECT_DIR$/zora1.css" />
         <option value="$PROJECT_DIR$/2.Zora Properties1.html" />
         <option value="$PROJECT_DIR$/zora-proprties.css" />
+        <option value="$PROJECT_DIR$/3. Option Panels.html" />
+        <option value="$PROJECT_DIR$/option-panels.css" />
       </list>
     </option>
   </component>
@@ -139,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,6 +168,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +215,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -235,12 +255,22 @@
       <option name="presentableId" value="Default" />
       <updated>1495642245658</updated>
       <workItem from="1495642247692" duration="605000" />
-      <workItem from="1495695445777" duration="21486000" />
+      <workItem from="1495695445777" duration="23320000" />
+      <workItem from="1495729457562" duration="1274000" />
+      <workItem from="1495735588049" duration="3990000" />
     </task>
+    <task id="LOCAL-00001" summary="solutions">
+      <created>1495722981234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495722981234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22091000" />
+    <option name="totallyTimeSpent" value="29189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -270,6 +300,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -289,18 +323,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zora1.css">
+    <entry file="file://$PROJECT_DIR$/book-review.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2214">
-          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Zora Properties1.html">
+    <entry file="file://$PROJECT_DIR$/2. Zora Properties.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="1407">
+          <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+          <folding>
+            <element signature="e#402#408#0" expanded="true" />
+            <element signature="e#514#520#0" expanded="true" />
+            <element signature="e#618#624#0" expanded="true" />
+            <element signature="e#725#731#0" expanded="true" />
+            <element signature="e#902#908#0" expanded="true" />
+            <element signature="e#1263#1270#0" expanded="true" />
+            <element signature="e#1270#1276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zora-proprties.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Book Review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="e#672#679#0" expanded="true" />
+            <element signature="e#679#686#0" expanded="true" />
+            <element signature="e#686#693#0" expanded="true" />
+            <element signature="e#693#700#0" expanded="true" />
+            <element signature="e#700#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-review.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -329,10 +401,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1. Book Review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="e#672#679#0" expanded="true" />
+            <element signature="e#679#686#0" expanded="true" />
+            <element signature="e#686#693#0" expanded="true" />
+            <element signature="e#693#700#0" expanded="true" />
+            <element signature="e#700#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zora1.css" />
+    <entry file="file://$PROJECT_DIR$/2.Zora Properties1.html" />
+    <entry file="file://$PROJECT_DIR$/2. Zora Properties.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+          <folding>
+            <element signature="e#402#408#0" expanded="true" />
+            <element signature="e#514#520#0" expanded="true" />
+            <element signature="e#618#624#0" expanded="true" />
+            <element signature="e#725#731#0" expanded="true" />
+            <element signature="e#902#908#0" expanded="true" />
+            <element signature="e#1263#1270#0" expanded="true" />
+            <element signature="e#1270#1276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/book-review.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3633">
-          <caret line="173" column="23" lean-forward="true" selection-start-line="173" selection-start-column="3" selection-end-line="173" selection-end-column="23" />
+        <state relative-caret-position="-105">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Option Panels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zora-proprties.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="131" column="30" lean-forward="false" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/option-panels.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1094">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
           <folding />
         </state>
       </provider>
