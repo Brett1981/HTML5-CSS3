@@ -1,0 +1,59 @@
+body {
+    font: 13px Verdana, Arial, Helvetica;
+    color: black;
+}
+
+main {
+    width: 610px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+section div {
+    width: 280px;
+    border: 1px solid #a5b2b3;
+    padding: 7px;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 5px -1px rgba(0,0,0,0.26)
+}
+
+section div:nth-child(1){
+    float: left;
+
+}
+
+section div:nth-child(2){
+    float: right;
+}
+
+section div:nth-child(3){
+    float: left;
+}
+
+section div:nth-child(4){
+    float: right;
+}
+
+
+img {
+    float: left;
+}
+
+a {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h6 {
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    color: #A192B0;;
+}
