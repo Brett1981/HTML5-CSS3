@@ -114,8 +114,7 @@ img {
 .review::before {
     content: ' " ';
     color: #af213d;
-    font-size: 30px;
-    font-weight: 800;
+    font-size: 20px;
 }
 
 .review::after {
