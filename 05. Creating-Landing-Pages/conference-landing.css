@@ -271,12 +271,14 @@ section.special-events div {
     font-weight: bold;
     border-radius: 25px;
     border: 1px solid #fa692e;
+    outline: none
 }
 
 .special-events button:hover {
     background: #3C3E4A;
     border: 1px solid #3C3E4A;
     cursor: pointer;
+    outline: none
 }
 
 .special-events input {
