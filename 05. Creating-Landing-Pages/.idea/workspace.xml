@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67731b57-c041-4961-a6ed-5bab1724d5f7" name="Default" comment="" />
+    <list default="true" id="67731b57-c041-4961-a6ed-5bab1724d5f7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/.idea/06. HTML-Forms-and-Styling-Exercise-and-Homework.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/P01_Search-Job.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/P01_Search-Job.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/P02_Product-Form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Exercise-and-Homework/P02_Product-Form.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conference-landing.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="conference-landing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference-landing.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -77,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conference-landing.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="conference-landing.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conference-landing.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5733">
-              <caret line="273" column="17" lean-forward="false" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="17" />
+            <state relative-caret-position="401">
+              <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,7 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -157,7 +168,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,6 +258,7 @@
       <workItem from="1496059535941" duration="147000" />
       <workItem from="1496060506118" duration="38000" />
       <workItem from="1496066242407" duration="104000" />
+      <workItem from="1496148194627" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="solution">
       <created>1495957446306</created>
@@ -273,7 +285,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53349000" />
+    <option name="totallyTimeSpent" value="53644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -313,6 +325,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/consulting-agency.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#864#870#0" expanded="true" />
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#5483#5489#0" expanded="true" />
+            <element signature="e#5625#5631#0" expanded="true" />
+            <element signature="e#5754#5760#0" expanded="true" />
+            <element signature="n#p#3;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consulting-agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference-landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#7020#7026#0" expanded="true" />
+            <element signature="e#7026#7032#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5733">
+          <caret line="273" column="17" lean-forward="false" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/consulting-agency.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -532,14 +605,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conference1.html" />
     <entry file="file://$PROJECT_DIR$/conference1.css" />
-    <entry file="file://$PROJECT_DIR$/conference-landing.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5733">
-          <caret line="273" column="17" lean-forward="false" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conference-landing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -556,6 +621,14 @@
             <element signature="e#7020#7026#0" expanded="true" />
             <element signature="e#7026#7032#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="293" column="0" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
