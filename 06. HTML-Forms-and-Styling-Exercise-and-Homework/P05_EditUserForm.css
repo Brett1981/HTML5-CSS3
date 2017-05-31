@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+    color: #1E1917;
+    font-size: 14px;
+    background-color: #EEEEEE;
+}
+
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #EEEEEE;
+}
+
+header.form-header {
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: white;
+    margin-bottom: 30px;
+    border-top: 10px solid #136F63;
+    border-right: 10px solid #136F63;
+}
+
+div.form-container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+div.left, div.right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.left {
+     width: 79%;
+ }
+
+div.right {
+    width: 20%;
+    text-align: right;
+}
+
+
+div.left input#username, input#email,
+input#phone-number, input#change-pass{
+    width: 500px;
+    display: block;
+    padding: 8px;
+    border-top: 3px solid #136F63;
+    border-left: 3px solid #136F63;
+    margin: 5px 0;
+}
+
+label#change-pass-lbl {
+    display: block;
+}
+
+#broadband {
+    margin-bottom: 15px;
+}
+
+label#broadband-lbl {
+    margin-right: 200px;
+}
+
+fieldset.checkbox-group {
+    background-color: white;
+    border-top: 3px solid #136F63;
+    border-left: 3px solid #136F63;
+    width: 500px;
+}
+
+div.checkbox {
+    margin: 5px 0;
+}
+
+a {
+    color: #136F63;
+    letter-spacing: 1px;
+}
+
+#cancel-btn, #save-btn {
+    display: inline-block;
+    font-size: 15px;
+    width: 200px;
+    padding: 10px 15px;
+    background-color: transparent;
+    font-weight: 700;
+}
+
+#cancel-btn {
+    margin: 20px 20px 20px 100px;
+    outline: none;
+    border: transparent;
+    border-bottom: 3px solid #FF5427;
+    border-right: 3px solid #FF5427;
+    color: #FF5427;
+}
+
+#save-btn {
+    outline: none;
+    border: transparent;
+    border-bottom: 3px solid #136F63;
+    border-right: 3px solid #136F63;
+    color: #136F63;
+}
+
+#cancel-btn:hover {
+    border-bottom: 3px solid #FF5427;
+    border-right: 3px solid #FF5427;
+    color: white;
+    background-color: #FF5427;
+    cursor: pointer;
+}
+
+#save-btn:hover {
+    border-bottom: 3px solid #136F63;
+    border-right: 3px solid #136F63;
+    color: white;
+    background-color: #136F63;
+    cursor: pointer;
+}

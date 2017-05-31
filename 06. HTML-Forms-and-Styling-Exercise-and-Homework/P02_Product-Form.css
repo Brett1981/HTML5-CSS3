@@ -11,17 +11,17 @@ body {
     margin: 50px auto;
     height: 500px;
     border-radius: 25px;
-    box-shadow: 0 0 20px rgba(66, 202, 202, 0.4);
+    box-shadow: 5px 5px 20px rgba(66, 202, 202, 0.4);
 }
 
 .image-container {
-    float: left;
     width: 40%;
     text-align: center;
     margin-right: 30px;
     height: 500px;
     background: linear-gradient(to bottom, #6afdc9 0%,#42c9ca 100%);
     border-radius: 25px 0 0 25px;
+    float: left;
 }
 
 img {
@@ -42,7 +42,7 @@ h3 {
 }
 
 form {
-    width: 80%;
+    width: 100%;
 }
 
 label {
@@ -97,4 +97,5 @@ select, option {
     border: 3px solid #43CACA;
     color: white;
     background: #43CACA;
+    cursor: pointer;
 }

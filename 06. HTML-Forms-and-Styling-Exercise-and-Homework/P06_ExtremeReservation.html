@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Extreme Reservation</title>
+    <link rel="stylesheet" href="P06_ExtremeReservation.css">
+</head>
+<body>
+    <form action="#">
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#">Paragliding</a></li>
+                    <li><a href="#">Skydiving</a></li>
+                    <li><a href="#">Climbing</a></li>
+                    <li><a href="#">About Us</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="form-container">
+            <fieldset class="left">
+                <legend>Personal Info</legend>
+                <div class="formfield-name">
+                    <input type="text" placeholder="Enter your full name">
+                </div>
+                <div class="formfield-email">
+                    <input type="email" placeholder="Enter a valid e-mail">
+                </div>
+                <div class="formfield-number">
+                    <input type="number" placeholder="Enter a phone number">
+                </div>
+            </fieldset>
+            <fieldset class="right">
+                <legend>Flight Info</legend>
+                <p class="flying">Are flying for first time?</p>
+                <input type="radio" name="question" value="yes">Yes
+                <input type="radio" name="question" value="no">No
+                <p class="choose">Choose Destination</p>
+                <select class="select-place">
+                    <optgroup label="Bulgaria">
+                        <option value="dobrostan">Dobrostan</option>
+                        <option value="sopot">Sopot</option>
+                        <option value="sofia">Sofia</option>
+                        <option value="bourgas">Bourgas</option>
+                    </optgroup>
+                    <optgroup label="Rest of the World">
+                        <option value="nepal">Nepal</option>
+                        <option value="turkey">Turkey</option>
+                        <option value="france">France</option>
+                    </optgroup>
+                </select>
+                <label for="date">Choose Date
+                    <input type="date" id="date">
+                </label>
+            </fieldset>
+        </section>
+        <section class="buttons">
+            <button type="reset">Clear</button>
+            <button type="submit">Send</button>
+        </section>
+    </form>
+</body>
+</html>

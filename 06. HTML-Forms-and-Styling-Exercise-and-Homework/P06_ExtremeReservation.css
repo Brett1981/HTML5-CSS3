@@ -1,0 +1,176 @@
+body {
+    font: 20px Arial, Helvetica, sans-serif;
+    background: url("images/background.jpg") no-repeat;
+    color: #2170AE;
+    background-size: cover;
+}
+
+form {
+    max-width: 800px;
+    min-width: 350px;
+    margin: 0 auto;
+}
+nav ul {
+    text-align: center;
+    margin: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px 46px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #2170AE;
+}
+
+nav ul li:nth-child(1) {
+    background: url("images/paraglider-icon.png") no-repeat 0 5px;
+}
+
+nav ul li:nth-child(2) {
+    background: url("images/sky-diver.png") no-repeat 0 5px;
+}
+
+nav ul li:nth-child(3) {
+    background: url("images/climbing.png") no-repeat 0 5px;
+}
+
+nav ul li:nth-child(4) {
+    background: url("images/about-us.png") no-repeat 0 5px;
+}
+
+nav ul li:hover {
+    background-color: rgba(110, 167, 205, 0.59);
+    border-radius: 15px;
+}
+
+
+fieldset.left, fieldset.right {
+    display: inline-block;
+    vertical-align: top;
+    width: 355px;
+    height: 400px;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid;
+    font-size: 22px;
+}
+
+.formfield-name input,
+.formfield-email input,
+.formfield-number input{
+    width: 320px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    font-size: 22px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+::-webkit-input-placeholder {
+    color:#2170AE;
+    text-align: center;
+}
+
+.formfield-name {
+    margin-top: 80px;
+}
+
+input[type="text"] {
+    background-image: url("images/user1.png");
+    background-repeat: no-repeat;
+    background-position: 20px 13px;
+}
+
+input[type="email"] {
+    background-image: url("images/email.png");
+    background-repeat: no-repeat;
+    background-position: 20px 13px;
+}
+
+input[type="number"] {
+    background-image: url("images/phone.png");
+    background-repeat: no-repeat;
+    background-position: 20px 13px;
+}
+
+fieldset.right p.flying {
+    margin-top: 40px;
+}
+
+label[for="date"] {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+}
+
+input#date {
+    display: block;
+    width: 320px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    font-size: 22px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+select, optgroup, option{
+    width: 320px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    font-size: 22px;
+    padding: 10px;
+    text-align: center;
+}
+
+option, optgroup {
+    font-size: 14px;
+    background-color: #BEE1E9;
+}
+
+.buttons {
+    text-align: right;
+}
+
+button[type="reset"],
+button[type="submit"] {
+    width: 100px;
+    height: 50px;
+    padding: 0;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+    background: none;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+
+button[type="reset"] {
+    color: rgb(230, 0, 2);
+    border-color: rgb(230, 0, 2);
+}
+
+button[type="reset"]:hover {
+    background-color: rgb(230, 0, 2);
+    color: white;
+    cursor: pointer;
+}
+
+button[type="submit"] {
+    color: rgb(8, 251, 9);
+    border-color: rgb(8, 251, 9);
+}
+
+button[type="submit"]:hover {
+    background-color: rgb(8, 251, 9);
+    color: white;
+    cursor: pointer;
+}

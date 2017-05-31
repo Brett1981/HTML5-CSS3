@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit User Form</title>
+    <link rel="stylesheet" href="P05_EditUserForm.css">
+</head>
+<body>
+    <form action="#">
+        <header class="form-header">
+            <h1>EDIT USER</h1>
+        </header>
+        <div class="form-container">
+
+        <div class="left">
+
+            <label for="username">Username
+                <input type="text" id="username">
+            </label>
+
+            <label for="email">Email
+                <input type="email" id="email">
+            </label>
+
+            <label for="phone-number">Phone number
+                <input type="number" id="phone-number">
+            </label>
+
+            <h3>User type</h3>
+
+                <input type="radio" name="broadband" id="broadband">
+                    <label for="broadband" id="broadband-lbl">Broadband</label>
+
+                <input type="radio" name="radio" id="radio">
+                    <label for="radio">Radio</label>
+
+            <label for="change-pass" id="change-pass-lbl">Change Password
+                <input type="password" id="change-pass">
+            </label>
+
+            <h3>Group</h3>
+
+            <fieldset class="checkbox-group">
+
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox">
+                        All groups
+                    </label>
+                </div>
+
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox">
+                        Group 1
+                    </label>
+                </div>
+
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox">
+                        Group 2
+                    </label>
+                </div>
+
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox">
+                        Group 3
+                    </label>
+                </div>
+
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox">
+                        Group 4
+                    </label>
+                </div>
+            </fieldset>
+        </div>
+
+        <div class="right">
+            <input type="checkbox" name="deactivate" id="r1" value="1" /><label for="r1"> Deactivate</label>
+        </div>
+
+        <h3>Contacts</h3>
+
+        <a href="#">See Contacts list </a>
+
+            <div class="btn-container">
+        <button type="reset" id="cancel-btn">CANCEL </button>
+        <button type="submit" id="save-btn">SAVE</button>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

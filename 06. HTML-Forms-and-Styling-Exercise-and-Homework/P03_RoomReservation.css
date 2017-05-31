@@ -1,0 +1,135 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+
+body {
+    font: 13px Tahoma, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 80%;
+    margin: 0 auto;
+    background: #EBEBEB;
+}
+
+.form-header {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+.form-header h1 {
+    font-size: 28px;
+    color: #32A2E4;
+    margin: 0;
+    padding: 20px 10px;
+    border-bottom: 1px dashed #32A2E4;
+    background: #F1F1F1;
+    font-weight: 300;
+}
+
+.info {
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px dashed #32A2E4;
+    padding-bottom: 10px;
+}
+
+.basic-info {
+    width: calc(100% - 200px);
+    display: inline-block;
+}
+
+.basic-info p {
+    width: 100%;
+    margin: 0;
+}
+
+.search {
+    display: inline-block;
+    width: 150px;
+    vertical-align: top;
+    margin-top: 38px;
+    margin-left: 15px;
+    position: relative;
+}
+
+.label-search::before {
+    font-family: FontAwesome, serif;
+    content: "\f002";
+    top:20px;
+    right: 3px;
+    position: absolute;
+
+}
+
+.label-search {
+    width: 200px;
+}
+
+.reservation-section {
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px dashed #32A2E4;
+    padding-bottom: 10px;
+}
+
+div.pers-details,
+div.reservation  {
+    width: 49.5%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.pers-details input {
+    display: block;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+div.reservation label {
+    display: inline-block;
+}
+
+div.reservation input,
+div.reservation select {
+    height: 22px;
+}
+
+div.reservation label[for=room]{
+    width: 60%;
+}
+
+div.reservation label input,
+div.reservation label select{
+    width: 100%;
+}
+
+div.reservation label[for=number] {
+    width: 38%;
+}
+
+div.reservation label[for=check-in],
+div.reservation label[for=check-out] {
+    width: 48%;
+    margin-right: 7px;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #32A2E4;
+    border-radius: 5px;
+    padding: 6px 25px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    display: inline-block;
+    margin-left: 915px;
+}
+
+button:hover {
+    background-color: #3BBC96;
+    cursor: pointer;
+}
