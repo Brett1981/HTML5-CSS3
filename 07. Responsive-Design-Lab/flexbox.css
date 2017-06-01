@@ -1,0 +1,39 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+.flex-item {
+    margin: 5px;
+    padding: 20px;
+    background: #ff882e;
+
+}
+
+.flex-container1 {
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-item01 {
+    background: #37ff1f;
+    flex-grow: 70;
+}
+
+.flex-item02 {
+    background: #3036ff;
+    flex-grow: 30;
+}
+
+.flex-item03 {
+    background: #ff3738;
+    flex-grow: 0;
+}
+
+@media screen and (max-width: 960px) {
+    .flex-item01 { order: 2; }
+    .flex-item02 { order: 3; }
+}

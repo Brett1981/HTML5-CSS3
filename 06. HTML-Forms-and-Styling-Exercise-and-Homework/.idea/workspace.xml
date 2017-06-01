@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab237bb-b3c7-4996-9b95-e59f7bb4b540" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P03_RoomReservation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P03_RoomReservation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P04_FreeAccount.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P04_FreeAccount.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P05_EditUserForm.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P05_EditUserForm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P06_ExtremeReservation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/P06_ExtremeReservation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P02_Product-Form.css" afterPath="$PROJECT_DIR$/P02_Product-Form.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P02_Product-Form.html" afterPath="$PROJECT_DIR$/P02_Product-Form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Lab/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../06. HTML-Forms-and-Styling-Lab/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +23,7 @@
       <file leaf-file-name="P05_EditUserForm.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P05_EditUserForm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1451">
+            <state relative-caret-position="1848">
               <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
@@ -44,7 +33,7 @@
       <file leaf-file-name="P01_Search-Job.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P01_Search-Job.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="798">
               <caret line="38" column="3" lean-forward="false" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
@@ -55,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/P02_Product-Form.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -64,7 +53,7 @@
       <file leaf-file-name="P02_Product-Form.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P02_Product-Form.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
+            <state relative-caret-position="1365">
               <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
               <folding />
             </state>
@@ -74,8 +63,8 @@
       <file leaf-file-name="P05_EditUserForm.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P05_EditUserForm.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            <state relative-caret-position="1218">
+              <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -84,7 +73,7 @@
       <file leaf-file-name="P04_FreeAccount.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P04_FreeAccount.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
+            <state relative-caret-position="1218">
               <caret line="58" column="15" lean-forward="false" selection-start-line="58" selection-start-column="15" selection-end-line="58" selection-end-column="15" />
               <folding />
             </state>
@@ -94,7 +83,7 @@
       <file leaf-file-name="P06_ExtremeReservation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P06_ExtremeReservation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="1029">
               <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="33" />
               <folding>
                 <element signature="n#header#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -106,8 +95,8 @@
       <file leaf-file-name="P06_ExtremeReservation.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/P06_ExtremeReservation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="145" column="17" lean-forward="true" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+            <state relative-caret-position="21">
+              <caret line="147" column="20" lean-forward="false" selection-start-line="147" selection-start-column="20" selection-end-line="147" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -174,6 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,8 +179,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,7 +265,8 @@
       <option name="presentableId" value="Default" />
       <updated>1496129958185</updated>
       <workItem from="1496129960481" duration="13885000" />
-      <workItem from="1496170667744" duration="31297000" />
+      <workItem from="1496170667744" duration="31347000" />
+      <workItem from="1496305732921" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="solutions">
       <created>1496151932617</created>
@@ -285,15 +275,22 @@
       <option name="project" value="LOCAL" />
       <updated>1496151932617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solutions">
+      <created>1496249297327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496249297327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45182000" />
+    <option name="totallyTimeSpent" value="45269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15959005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -328,11 +325,76 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/P05_EditUserForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P01_Search-Job.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="3" lean-forward="false" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P02_Product-Form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P02_Product-Form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P05_EditUserForm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P04_FreeAccount.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="58" column="15" lean-forward="false" selection-start-line="58" selection-start-column="15" selection-end-line="58" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P06_ExtremeReservation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="33" />
+          <folding>
+            <element signature="n#header#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P06_ExtremeReservation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/P01_Search-Job.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="48" column="77" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -364,7 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
           <caret line="48" column="77" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -372,7 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -380,7 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="31" column="66" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="31" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -388,13 +447,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5">
           <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P05_EditUserForm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1451">
+        <state relative-caret-position="1848">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
@@ -402,15 +460,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P05_EditUserForm.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        <state relative-caret-position="1218">
+          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P01_Search-Job.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="798">
           <caret line="38" column="3" lean-forward="false" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
@@ -418,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P04_FreeAccount.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
+        <state relative-caret-position="1218">
           <caret line="58" column="15" lean-forward="false" selection-start-line="58" selection-start-column="15" selection-end-line="58" selection-end-column="15" />
           <folding />
         </state>
@@ -427,14 +485,14 @@
     <entry file="file://$PROJECT_DIR$/P02_Product-Form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/P02_Product-Form.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
+        <state relative-caret-position="1365">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
           <folding />
         </state>
@@ -442,7 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P06_ExtremeReservation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="1029">
           <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="33" />
           <folding>
             <element signature="n#header#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -452,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P06_ExtremeReservation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="145" column="17" lean-forward="true" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+        <state relative-caret-position="21">
+          <caret line="147" column="20" lean-forward="false" selection-start-line="147" selection-start-column="20" selection-end-line="147" selection-end-column="20" />
           <folding />
         </state>
       </provider>
