@@ -1,0 +1,142 @@
+@media screen and (max-width: 640px) {
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .wrap{
+        margin: 0 auto;
+        width:100%;
+        padding:0;
+        border:0;
+    }
+
+    #header-top-area {
+        padding: 0;
+        margin-right: 10px;
+    }
+
+    #header-top-area h1 {
+        margin: 0;
+        margin-top: -55px;
+        width:125px;
+    }
+
+    #header-top-area a {
+        margin-top: -50px;
+    }
+
+   #header-top-area h2{
+        display: none;
+    }
+
+   #header-middle-area {
+       margin-top: 60px;
+       padding: 10px;
+       border-top: 3px solid #C7CBCC;
+       border-bottom: 2px solid #C7CBCC;
+       width: 80%;
+   }
+
+   #header-bottom-area {
+       display: none;
+   }
+
+    #product-menu{
+        display: block;
+        position:relative;
+        width: 92%;
+        margin: 0;
+        padding-left: 40px;
+    }
+
+    #product-menu:hover {
+        background: #C7CBCC;
+    }
+
+    #product-menu:hover .submenu {
+        display:block;
+        min-width:100%;
+    }
+
+    #product-menu:hover .submenu li {
+        text-align: left;
+        margin-left: -0px;
+        padding-top: 20px;
+        width: 90%;
+    }
+
+    main section {
+        padding: 30px;
+    }
+
+    .wrap ul {
+        padding: 0;
+    }
+
+    .wrap ul li.box {
+        width: 100%;
+    }
+
+    #products-liked-list .box:nth-of-type(even) {
+        display: none;
+    }
+
+    h5 {
+        margin-bottom: 2.5rem;
+    }
+
+    h3 {
+        font-size: 2em;
+    }
+
+    #products-suggestions-list .box:first-of-type,
+    #products-suggestions-list .box:nth-of-type(2){
+        display: none;
+    }
+
+    div.box-share {
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .share {
+        float: none;
+        text-align: center;
+    }
+
+    strong {
+        display: inline-block;
+        vertical-align: bottom;
+        color: white;
+    }
+
+    div.box-share a.tag {
+        color: white;
+    }
+
+    div.email-newsletter {
+        display: block;
+        padding: 15px 0;
+        float: none;
+      width: 100%;
+    }
+
+    .email-newsletter span {
+        display: block;
+    }
+
+    .copyright {
+        float: none;
+        padding: 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    footer {
+        height: auto;
+        padding-bottom: 25px;
+    }
+
+}

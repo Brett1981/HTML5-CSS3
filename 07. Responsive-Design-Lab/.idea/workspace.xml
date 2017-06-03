@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d950b21-6a4f-43f4-a253-6e1532aaf077" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/07. Responsive-Design-Homework.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/P01_Responsive_CV.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/P01_Responsive_CV.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/P02_Unresponsive-Web-Site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/P02_Unresponsive-Web-Site.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/P03_Mandarin_Bird.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/P03_Mandarin_Bird.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../07. Responsive-Design-Homework/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
