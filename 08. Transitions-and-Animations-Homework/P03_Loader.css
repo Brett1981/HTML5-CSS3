@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #0E1013;
+}
+
+.container {
+    width: 200px;
+    height: 100px;
+    padding-top: 200px;
+    margin: 0 auto;
+}
+
+.ball {
+    width: 20px;
+    height: 20px;
+    margin: 20px auto;
+    border-radius: 50px;
+}
+
+.ball:nth-child(1) {
+    background: #ff005d;
+    animation: bounce 1s linear 0s infinite;
+}
+
+.ball:nth-child(2) {
+    background: #35ff99;
+    animation: bounce 800ms linear 100ms infinite;
+}
+
+.ball:nth-child(3) {
+    background: #008597;
+    animation: bounce 900ms linear 200ms infinite;
+}
+
+.ball:nth-child(4) {
+    background: #ffcc00;
+    animation: bounce 950ms linear 150ms infinite;
+}
+
+.ball:nth-child(5) {
+    background: #89b466;
+    animation: bounce 1s linear 100ms infinite;
+}
+
+.ball:nth-child(6) {
+    background: #ff7c35;
+    animation: bounce 900ms linear 150ms infinite;
+}
+
+.ball:nth-child(7) {
+    background: #4d407c;
+    animation: bounce 950ms linear 250ms infinite;
+}
+
+
+
+@keyframes bounce {
+    0% {
+        transform: translateX(0px);
+    }
+
+    33% {
+        transform: translateX(50px);
+    }
+
+    66% {
+        transform: translateX(-50px);
+    }
+
+    100% {
+        transform: translateX(0px);
+    }
+}
