@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Sweet Alert - Example</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity=
+            "sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="css/sweetalert.css">
+
+    <style>
+        .container {
+            margin: 100px auto;
+        }
+    </style>
+
+</head>
+
+<body>
+<div class="container">
+    <form>
+
+        <div class="form-group row">
+            <label for="username" class="col-sm-2 col-form-label">Enter Username:</label>
+            <div class="col-sm-5">
+                <input type="text" class="form-control" id="username" placeholder="Username">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="inputPassword3" class="col-sm-2 col-form-label">Enter Password</label>
+            <div class="col-sm-5">
+                <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="confirmPassword3" class="col-sm-2 col-form-label">Confirm Password</label>
+            <div class="col-sm-5">
+                <input type="password" class="form-control" id="confirmPassword3" placeholder="Password">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="offset-sm-2 col-sm-10">
+                <button type="button" class="btn btn-danger"> Delete Account</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+    $('.btn').click(() => {
+        swal({ title: "Are you sure?", type: "warning",
+                text: "You will not be able to recover your account!",
+                showCancelButton: true,
+                confirmButtonColor: "#DD6B55",
+                confirmButtonText: "Yes, delete it!",
+                closeOnConfirm: false
+            },
+            function() { swal("Deleted!", "Your account …","success"); }
+        );
+    });
+</script>
+
+</body>
+</html>
